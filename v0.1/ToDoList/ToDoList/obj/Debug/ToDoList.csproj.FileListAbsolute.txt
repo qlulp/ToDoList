@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Controls.InfoBlock.resources
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Controls.AddTask.resources
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Controls.CustomCheckBox.resources
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Controls.ListElement.resources
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.MainForm.resources
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Admin\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Admin\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\Admin\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
